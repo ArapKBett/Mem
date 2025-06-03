@@ -1,0 +1,7 @@
+{
+  "coinmarketcap_api_key": "your_coinmarketcap_api_key",
+  "telegram_bot_token": "your_telegram_bot_token",
+  "discord_bot_token": "your_discord_bot_token",
+  "telegram_channel_id": "your_telegram_channel_id",
+  "discord_channel_id": "your_discord_channel_id"
+}
